@@ -1,6 +1,10 @@
-# Nattanun Kmoldejritta
-# 6530200142
+# สวัสดีครับ
+- ผมชื่อนายณัฐนันท์ กมลเดชฤทธา รหัสนิสิต 6530200142
+- เรียนสาขา วิทยาการคอมพิวเตอร์ ภาคปกติ ปี3
+- สนใจในด้านการตัดต่อคลิป วิดีโอ แต่หลงมาเรียนเขียนโค้ด
+- ชอบสัตว์ทุกตัว ยกเว้น ผึ้ง ต่อ แตน
+<br>
+
 ![Alt text](1727268648824.jpg)
-
-
-[classification](classification.md)
+# Keyword [classification](classification.md)
+## [Pongpipat](https://guyyasit336.github.io/)
