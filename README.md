@@ -7,4 +7,4 @@
 
 ![Alt text](1727268648824.jpg)
 # Keyword [classification](classification.md)
-## [Pongpipat](https://guyyasit336.github.io/)
+## [Pongpipat]()
