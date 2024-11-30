@@ -1,12 +1,12 @@
 # Classification
-## CIISP Glossary Student Guide
+## [CIISP Glossary Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary#c)
 ### Arrangement of assets into categories.
 - Chat GPT <br>
 การจัดเรียงสินทรัพย์เป็นหมวดหมู่
 - Gemini <br>
 การจัดหมวดหมู่ของสินทรัพย์
 
-## dictionary.com
+## [dictionary.com](https://www.dictionary.com/browse/classification)
 ### the result of classifying or being classified.
 - Chat GPT <br>
 ผลลัพธ์ของการจำแนกหรือการถูกจำแนก
