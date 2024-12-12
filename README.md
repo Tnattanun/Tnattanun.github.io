@@ -5,6 +5,6 @@
 - ชอบสัตว์ทุกตัว ยกเว้น ผึ้ง ต่อ แตน
 
 
-![Alt text](1727268648824.jpg)
+![Alt text](assets/1727268648824.jpg)
 # Keyword [classification](classification.md)
 ## [Pongpipat](https://6530200711.github.io)
