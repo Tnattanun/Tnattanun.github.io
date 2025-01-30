@@ -8,5 +8,11 @@
 
   บรรยากาศการทำกิจกรรม (เมื่อวันที่ 8 มกราคม 2567 เวลาประมาณ 17.00 น. ณ บริเวณ ตึก 17 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา)  
   สามารถดูวิดีโอการเล่นได้ -> [![Video]](https://www.youtube.com/watch?v=ZvQ2fzvgYxU)
-![activity2](assets/pic3.jpg)
+![activity2](assets/pic3.jpg)  
 
+**เพื่อนร่วมอุดมการณ์**
+-[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame.html)  
+-[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)  
+-[Chaiyaporn Poolsawat](https://lnwnott.github.io/boardgame)  
+-[Phakkawat Jitponsup](https://pondxd.github.io/boardgame.html/)  
+-[Pongpipat Kumchoo](https://6530200711.github.io/Boardgame)
