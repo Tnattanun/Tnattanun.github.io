@@ -10,7 +10,7 @@
   สามารถดูวิดีโอการเล่นได้ -> [![Video]](https://www.youtube.com/watch?v=ZvQ2fzvgYxU)
 ![activity2](assets/pic3.jpg)  
 
-**เพื่อนร่วมอุดมการณ์**
+**เพื่อนร่วมอุดมการณ์**  
 -[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame.html)  
 -[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)  
 -[Chaiyaporn Poolsawat](https://lnwnott.github.io/boardgame)  
