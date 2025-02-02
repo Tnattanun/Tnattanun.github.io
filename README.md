@@ -6,8 +6,10 @@
 
 
 ![Alt text](assets/1727268648824.jpg)
-# Keyword [classification](classification.md)
-## [Pongpipat](https://6530200711.github.io)
-# [Christmas E-Card](Christmas.md)
-# [Data Consistency](Data_Consistency.md)
-# [BoardGame](BoardGame.md)
+# Homework
+### [Keyword classification](classification.md)
+### [Christmas E-Card](Christmas.md)
+### [Data Consistency](Data_Consistency.md)
+### [BoardGame](BoardGame.md)
+# Partner
+### [Pongpipat](https://6530200711.github.io)
