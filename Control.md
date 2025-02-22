@@ -3,7 +3,7 @@
 - **Location** : Condo
 - **Control Function** : Preventative
 - **Type of Security Control** : Physical Control
-<img src="assets/control.jpg" width="50%" />
+![activity](assets/control.jpg)
 
 ### เป็น Physical Control เพราะ
 - Digital Door Lock เป็นอุปกรณ์ที่ใช้ควบคุมการเข้าถึงทางกายภาพของพื้นที่
