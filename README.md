@@ -9,7 +9,7 @@
 # Homework
 ### [Keyword classification](classification.md)
 ### [Christmas E-Card](Christmas.md)
-### [Data Consistency](Data_Consistency.md)
+### [Data Consistency](consistency.md)
 ### [BoardGame](BoardGame.md)
 ### [Security Control](Control.md)
 # Partner
