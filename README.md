@@ -11,5 +11,6 @@
 ### [Christmas E-Card](Christmas.md)
 ### [Data Consistency](Data_Consistency.md)
 ### [BoardGame](BoardGame.md)
+### [Security Control](Control.md)
 # Partner
 ### [Pongpipat](https://6530200711.github.io)
