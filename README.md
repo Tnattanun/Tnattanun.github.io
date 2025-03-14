@@ -12,5 +12,6 @@
 ### [Data Consistency](consistency.md)
 ### [BoardGame](BoardGame.md)
 ### [Security Control](security-control.md)
+### [Security Requirements](security-requirements.md)
 # Partner
 ### [Pongpipat](https://6530200711.github.io)
