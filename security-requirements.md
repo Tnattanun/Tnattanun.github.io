@@ -2,7 +2,7 @@
 ## Business Logic Architecture : 
 - Verify that all high-value business logic flows, including authentication, session management and access control, do not share unsynchronized state.  
 ## Source : 
-- https://wiki.owasp.org/images/d/d4/OWASP_Application_Security_Verification_Standard_4.0-en.pdf
+- [https://wiki.owasp.org/images/d/d4/OWASP_Application_Security_Verification_Standard_4.0-en.pdf](https://wiki.owasp.org/images/d/d4/OWASP_Application_Security_Verification_Standard_4.0-en.pdf)
 ## Chat GPT
 - การตรวจสอบให้แน่ใจว่า กระบวนการทางธุรกิจที่มีมูลค่าสูงทั้งหมด เช่น การยืนยันตัวตน, การจัดการเซสชัน และการควบคุมการเข้าถึง จะไม่ใช้สถานะ (state) ที่ไม่ได้รับการซิงโครไนซ์ร่วมกัน ซึ่งหมายถึงการตรวจสอบว่าแต่ละกระบวนการเหล่านี้ไม่ได้แชร์ข้อมูลหรือสถานะที่อาจทำให้เกิดความขัดแย้งหรือข้อผิดพลาด เนื่องจากการซิงโครไนซ์ไม่ถูกต้อง หรือไม่ได้รับการจัดการอย่างเหมาะสมในหลายๆ ตัวแปรที่เกี่ยวข้อง
 ## Gemini
